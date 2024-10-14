@@ -1,0 +1,9 @@
+/build
+*.hex
+*.elf
+*.bin
+*.o
+*.d
+*.a
+*.class
+*.ino.cpp
